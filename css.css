@@ -1,0 +1,307 @@
+.toppic
+{
+	background-image: url('bdy.jpg');
+	width: 1590px;
+	height: 200px;
+	background-repeat: no-repeat;
+	background-size: 1600px 200px;
+	position: absolute;
+	top: 0%;
+	left: 0%;
+}
+.buttonCont
+{
+	background-color: #595959;
+	width: 1590px;
+	height: 50px;
+	position: absolute;
+	top: 25%;
+	left: 0%;
+}
+body
+{
+	background-image: url('top.jpg');
+}
+
+
+.imgCont
+{
+	width: 200px;
+	height: 200px;
+	position: absolute;
+	top: 5%;
+	left: 15%;
+	border-radius: 5%;
+	
+}
+.imgCont2
+{
+	width: 400px;
+	height: 200px;
+	position: absolute;
+	top: 5%;
+	left: 15%;
+	border-radius: 5%;
+	border-style: solid;
+}
+a:hover
+{
+	background-color: white;
+	color: black;
+	
+}
+
+.button {
+    background-color: #66ccff;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+	position: absolute;
+	left: 30%;
+	top: 75%;
+	border-radius: 5%;
+}
+.textCont
+{
+	width: 280px;
+	height: 100px;
+	position: absolute;
+	top: 65%;
+		
+}
+.textCont2
+{
+	width: 280px;
+	height: 100px;
+	position: absolute;
+	top: 72%;
+	left: 4%;
+}
+.home 
+{
+    background-color: #595959;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+	position: absolute;
+	top: 24.5%;
+	left:70%;
+	width: 100px;
+	height: 19px;
+}
+.abt 
+{
+    background-color: #595959;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+	position: absolute;
+	top: 24.5%;
+	left:80%;
+	width: 100px;
+	height: 19px;
+}
+.box1
+{
+	position: absolute;
+	width: 300px;
+	height: 350px;
+	background-color: gray;
+	top: 43%;
+	left: 10%;
+	border-radius: 10%;
+}
+.box2
+{
+	position: absolute;
+	width: 300px;
+	height: 350px;
+	background-color: gray;
+	top: 43%;
+	left: 31%;
+	border-radius: 10%;
+}
+.box3
+{
+	position: absolute;
+	width: 300px;
+	height: 350px;
+	background-color: gray;
+	top: 43%;
+	left: 52%;
+	border-radius: 10%;
+}
+.box4
+{
+	position: absolute;
+	width: 300px;
+	height: 350px;
+	background-color: gray;
+	top: 43%;
+	left: 73%;
+	border-radius: 10%;
+}
+.box5
+{
+	position: absolute;
+	width: 300px;
+	height: 350px;
+	background-color: gray;
+	top: 93%;
+	left: 10%;
+	border-radius: 10%;
+}
+.box6
+{
+	position: absolute;
+	width: 300px;
+	height: 350px;
+	background-color: gray;
+	top: 93%;
+	left: 31%;
+	border-radius: 10%;
+}
+.box7
+{
+	position: absolute;
+	width: 300px;
+	height: 350px;
+	background-color: gray;
+	top: 93%;
+	left: 52%;
+	border-radius: 10%;
+}
+.box8
+{
+	position: absolute;
+	width: 300px;
+	height: 350px;
+	background-color: gray;
+	top: 93%;
+	left: 73%;
+	border-radius: 10%;
+}
+.box9
+{
+	position: absolute;
+	width: 300px;
+	height: 350px;
+	background-color: gray;
+	top: 145%;
+	left: 10%;
+	border-radius: 10%;
+}
+.box10
+{
+	position: absolute;
+	width: 300px;
+	height: 350px;
+	background-color: gray;
+	top: 145%;
+	left: 31%;
+	border-radius: 10%;
+}
+.box11
+{
+	position: absolute;
+	width: 300px;
+	height: 350px;
+	background-color: gray;
+	top: 145%;
+	left: 52%;
+	border-radius: 10%;
+}
+.box12
+{
+	position: absolute;
+	width: 300px;
+	height: 350px;
+	background-color: gray;
+	top: 145%;
+	left: 73%;
+	border-radius: 10%;
+}
+.box13
+{
+	position: absolute;
+	width: 300px;
+	height: 350px;
+	background-color: gray;
+	top: 197%;
+	left: 21%;
+	border-radius: 10%;
+}
+.box14
+{
+	position: absolute;
+	width: 300px;
+	height: 350px;
+	background-color: gray;
+	top: 197%;
+	left: 41%;
+	border-radius: 10%;
+}
+.box15
+{
+	position: absolute;
+	width: 300px;
+	height: 350px;
+	background-color: gray;
+	top: 197%;
+	left: 61%;
+	border-radius: 10%;
+}
+.bottomcont
+{
+	width:1590px;
+	height:80px;
+	background-color: #e6ffff;
+	position: absolute;
+	top: 250%;
+	left: 0%;
+}
+.bottomMain
+{
+	width:1590px;
+	height:104px;
+	background-color: #e6ffff;
+	position: absolute;
+	top: 100%;
+	left: 0%;
+}
+h4
+{
+	text-align: center;
+	font-weight: bold;
+}
+.abtme
+{
+	background-color:  #e6ffff;
+	width: 600px;
+	height: 400px;
+	position: absolute;
+	top: 40%;
+	left: 30%;
+	border-radius: 20%;
+	border-style: solid;
+}
+
+
